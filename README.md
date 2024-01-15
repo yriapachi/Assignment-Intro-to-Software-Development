@@ -6,7 +6,6 @@ The coffee shop has several employees that will be using the system:
 Each employee will have a user account to login (username/password) and the system will
 identify their role and respond accordingly.
 
-Page 2 of 5
 After each order placed, the clerk will enter to the system:
 • The name of the customer
 • Address of the customer
